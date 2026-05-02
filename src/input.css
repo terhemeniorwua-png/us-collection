@@ -10,11 +10,16 @@
     font-family: var(--font-inter);
 }
     .headText{
-    height: 2em;
+    height: 3em;
+    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
     font-size: calc(1em - 10%);
+    position: fixed;
+}
+main{
+    padding-top: 15%;
 }
 footer{
     font-family: var(--font-Poppins);

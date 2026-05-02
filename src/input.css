@@ -19,7 +19,7 @@
     position: fixed;
 }
 main{
-    padding-top: 15%;
+    padding-top: 18%;
 }
 footer{
     font-family: var(--font-Poppins);
@@ -68,7 +68,7 @@ table tr td{
 }
 /* styling link */
 .dropdown-ctn a{
-    color: rgba(0, 0, 0, 0);
+    /* color: rgba(0, 0, 0, 0); */
     padding: 12px 16px;
     display: block;
 }

@@ -9,11 +9,12 @@
 *{
     font-family: var(--font-Montserrat);
 }
-    head{
-    height: 1.5em;
+    .headText{
+    height: 2em;
     background-color: black;
     color: white;
     text-align: center;
+    font-size: calc(1em - 10%);
 }
 footer{
     font-family: var(--font-Poppins);

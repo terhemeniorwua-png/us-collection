@@ -59,6 +59,7 @@ table tr td{
     display: none;
     position: absolute;
     min-width: 360px;
+     background-color: white;
 }
 /* styling link */
 .dropdown-ctn a{
@@ -69,4 +70,5 @@ table tr td{
 /* show dropdown on hover */
 .dropdown:hover .dropdown-ctn{
     display: block;
+    background-color: white;
 }

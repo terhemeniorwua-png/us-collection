@@ -31,6 +31,7 @@
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
     --font-weight-black: 900;
+    --tracking-wide: 0.025em;
     --tracking-wider: 0.05em;
     --radius-lg: 0.5rem;
     --radius-3xl: 1.5rem;
@@ -244,9 +245,6 @@
   .w-\[50\%\] {
     width: 50%;
   }
-  .w-\[60\%\] {
-    width: 60%;
-  }
   .w-\[80\%\] {
     width: 80%;
   }
@@ -279,9 +277,6 @@
   }
   .justify-start {
     justify-content: flex-start;
-  }
-  .gap-1 {
-    gap: calc(var(--spacing) * 1);
   }
   .gap-2 {
     gap: calc(var(--spacing) * 2);
@@ -324,9 +319,6 @@
       margin-inline-end: calc(calc(var(--spacing) * 20) * calc(1 - var(--tw-space-x-reverse)));
     }
   }
-  .rounded {
-    border-radius: 0.25rem;
-  }
   .rounded-3xl {
     border-radius: var(--radius-3xl);
   }
@@ -347,10 +339,6 @@
   .border-t {
     border-top-style: var(--tw-border-style);
     border-top-width: 1px;
-  }
-  .border-t-4 {
-    border-top-style: var(--tw-border-style);
-    border-top-width: 4px;
   }
   .border-t-8 {
     border-top-style: var(--tw-border-style);
@@ -378,9 +366,6 @@
   }
   .bg-\[\#da92be63\] {
     background-color: #da92be63;
-  }
-  .bg-\[\#da92be\] {
-    background-color: #da92be;
   }
   .bg-black {
     background-color: var(--color-black);
@@ -412,14 +397,8 @@
   .px-16 {
     padding-inline: calc(var(--spacing) * 16);
   }
-  .px-\[20\%\] {
-    padding-inline: 20%;
-  }
   .px-\[25\%\] {
     padding-inline: 25%;
-  }
-  .px-\[30\%\] {
-    padding-inline: 30%;
   }
   .py-2 {
     padding-block: calc(var(--spacing) * 2);
@@ -511,6 +490,10 @@
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
   }
+  .tracking-wide {
+    --tw-tracking: var(--tracking-wide);
+    letter-spacing: var(--tracking-wide);
+  }
   .tracking-wider {
     --tw-tracking: var(--tracking-wider);
     letter-spacing: var(--tracking-wider);
@@ -521,17 +504,14 @@
   .text-\[\#0000007d\] {
     color: #0000007d;
   }
+  .text-\[\#da92be63\] {
+    color: #da92be63;
+  }
   .text-blue-600 {
     color: var(--color-blue-600);
   }
-  .text-gray-400 {
-    color: var(--color-gray-400);
-  }
   .text-gray-500 {
     color: var(--color-gray-500);
-  }
-  .text-gray-600 {
-    color: var(--color-gray-600);
   }
   .text-gray-700 {
     color: var(--color-gray-700);

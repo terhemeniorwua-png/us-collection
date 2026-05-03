@@ -80,4 +80,8 @@ table tr td{
 
 
 /* from here upward  DO NOT EDIT ==== */
-
+ input:focus{
+    border-bottom: 1em;
+    border-color: crimson;
+ }
+ 

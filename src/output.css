@@ -242,6 +242,9 @@
   .h-\[0\.5em\] {
     height: 0.5em;
   }
+  .h-screen {
+    height: 100vh;
+  }
   .w-24 {
     width: calc(var(--spacing) * 24);
   }
@@ -259,6 +262,12 @@
   }
   .w-\[80\%\] {
     width: 80%;
+  }
+  .w-\[90\%\] {
+    width: 90%;
+  }
+  .w-\[90\] {
+    width: 90;
   }
   .w-full {
     width: 100%;

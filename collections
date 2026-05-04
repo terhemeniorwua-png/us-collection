@@ -19,7 +19,6 @@
             <div class="flex flex-col items-center">
                 <h2 class="text-6xl underline">M.O.T</h2>
                 <ul class="flex justify-center items-center">
-
                       <!-- shop dropdown -->
                     <li class="dropdown">
                         <a href="" class="dropdown-btn">SHOP</a>
@@ -33,52 +32,52 @@
                                     <th class="">SHOP BY CATEGORIES</th>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">New Arrivals</a></td>
-                                    <td><a href="#">Mummy & Me Matching</a></td>
-                                    <td><a href="#">Belts</a></td>
-                                    <td><a href="#">Dye Labs X M.O.T</a></td>
-                                  <td> <a href="#"> Kids</a></td>
+                                    <a href="#"><td>New Arrivals</td>
+                                    <a href="#"><td>Mummy & Me Matching</td></a>
+                                  <a href="#">  <td>Belts</td></a>
+                                   <a href="#"> <td>Dye Labs X M.O.T</td></a>
+                                  <a href="#">  <td>Kids</td></a>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">Best Sellers</a></td>
-                                    <td><a href="#">Outfits</a></td>
-                                    <td><a href="#">Jewellery</a></td>
-                                    <td><a href="#"></a></td>
-                                    <td><a href="#">Denim</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Dresses</a></td>
-                                    <td><a href="#">Dresses</a></td>
-                                    <td><a href="#">Bags</a></td>
+                                    <td>Best Sellers</td>
+                                    <td>Outfits</td>
+                                    <td>Jewellery</td>
                                     <td></td>
-                                    <td><a href="#">Occasion</a></td>
+                                    <td>Denim</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">Jackets</a></td>
-                                    <td><a href="#">Sets</a></td>
-                                    <td><a href="#">Hair Accessories</a></td>
-                                    <td><a href="#"></a></td>
-                                    <td><a href="#">Classic</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">Tops</a></td>
-                                    <td><a href="#">Jumpsuits</a></td>
-                                    <td><a href="#">Gifts</a></td>
+                                    <td>Dresses</td>
+                                    <td>Dresses</td>
+                                    <td>Bags</td>
                                     <td></td>
-                                    <td><a href="#">Basics</a></td>
+                                    <td>Occasion</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">Bottoms</a></td>
-                                    <td><a href="#">All clothing</a></td>
+                                    <td>Jackets</td>
+                                    <td>Sets</td>
+                                    <td>Hair Accessories</td>
+                                    <td></td>
+                                    <td>Classic</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">Sets</a></td>
+                                    <td>Tops</td>
+                                    <td>Jumpsuits</td>
+                                    <td>Gifts</td>
+                                    <td></td>
+                                    <td>Basics</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">Jusmpsuits</a></td>
+                                    <td>Bottoms</td>
+                                    <td>All clothing</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="#">All clothing</a></td>
+                                    <td>Sets</td>
+                                </tr>
+                                <tr>
+                                    <td>Jusmpsuits</td>
+                                </tr>
+                                <tr>
+                                    <td>All clothing</td>
                                 </tr>
                             </table>
                         </div>
@@ -100,8 +99,8 @@
                         <div class="dropdown-ctn text-[13px]">
                             <a href="collections.html">COllections</a>
                             <a href="pir.html">Pir Story</a>
-                            <a href="stockosts.html">Stockists</a>
-                            <a href="affiliate.html">Affiliates</a>
+                            <a href="stockists.html">Stockists</a>
+                            <a href="affiliates.html">Affiliates</a>
                         </div>
                     </li>
                     <li class="dropdown-btn">CONTACT</li>
@@ -147,7 +146,7 @@
         <div class=" text-white py-10 grid grid-cols-4 px-10">
             <div class="w-[80%]">
                 <h2 class="font-bold text-[20px]">About M.O.T</h2>
-                <p class="text-[13px] pt-5">M.O.T provides versatile and vibrant ready-to-wear fashion   for the contemporary woman. We prioritise unconventional  boidy types and proportions.</p>
+                <p class="text-[13px] pt-5">M.O.T provides bersatile and vibrant ready-to-wear fashion   for the contemporary woman. We prioritise unconventional  boidy types and proportions.</p>
             </div>
             <div class="space-y-2">
             <h2 class="font-bold">Follow Us</h2>

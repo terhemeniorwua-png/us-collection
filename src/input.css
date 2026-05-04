@@ -43,14 +43,14 @@ table tr th{
     font-size:15px;
     color: rgba(0, 0, 0, 0.888);
     border: none;
-    padding: 2px;
+    padding: 20px;
     text-align: center;
     
 }
 table tr td{
     /* width: 40%; */
     border: none;
-    padding: 12px;
+    /* padding: 2px; */
     text-align: center;
     font-size:13px;
     /* line-height: 30px; */
@@ -80,3 +80,8 @@ table tr td{
 
 
 /* from here upward  DO NOT EDIT ==== */
+ input:focus{
+    border-bottom: 1em;
+    border-color: crimson;
+ }
+ 

@@ -27,8 +27,6 @@
     --text-3xl--line-height: calc(2.25 / 1.875);
     --text-4xl: 2.25rem;
     --text-4xl--line-height: calc(2.5 / 2.25);
-    --text-5xl: 3rem;
-    --text-5xl--line-height: 1;
     --text-6xl: 3.75rem;
     --text-6xl--line-height: 1;
     --font-weight-light: 300;
@@ -38,7 +36,6 @@
     --tracking-wide: 0.025em;
     --tracking-wider: 0.05em;
     --radius-sm: 0.25rem;
-    --radius-md: 0.375rem;
     --radius-lg: 0.5rem;
     --radius-3xl: 1.5rem;
     --default-font-family: var(--font-sans);
@@ -630,12 +627,11 @@ table tr th {
   font-size: 15px;
   color: rgba(0, 0, 0, 0.888);
   border: none;
-  padding: 2px;
+  padding: 20px;
   text-align: center;
 }
 table tr td {
   border: none;
-  padding: 12px;
   text-align: center;
   font-size: 13px;
 }

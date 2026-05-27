@@ -259,8 +259,14 @@
   .bottom-\[1em\] {
     bottom: 1em;
   }
+  .bottom-\[40px\] {
+    bottom: 40px;
+  }
   .bottom-\[410px\] {
     bottom: 410px;
+  }
+  .bottom-\[420px\] {
+    bottom: 420px;
   }
   .bottom-\[430px\] {
     bottom: 430px;

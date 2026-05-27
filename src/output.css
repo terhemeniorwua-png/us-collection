@@ -271,6 +271,9 @@
   .bottom-\[430px\] {
     bottom: 430px;
   }
+  .bottom-\[435px\] {
+    bottom: 435px;
+  }
   .left-8 {
     left: calc(var(--spacing) * 8);
   }
